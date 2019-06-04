@@ -1,0 +1,298 @@
+Delhi
+New York (NY)
+JAKARTA
+Sao Paulo
+MANILA
+Los Angeles (CA)
+Thượng Hải
+Osaka
+CAIRO
+Kolkata (Calcutta)
+Karachi
+Quảng Châu (Canton)
+BUENOS AIRES
+MATX-CƠ-VA
+Bắc Kinh (Bắc Kinh)
+Dhaka
+Istanbul
+Rio de Janeiro
+Tehran
+LONDON
+Shenzhen
+Lagos
+PARIS
+Chicago (IL)
+Trùng Khánh (Chungking)
+Nagoya
+Vũ Hán
+LIMA
+BANGKOK
+BOGOTA
+Kinshasa
+Lahore
+WASHINGTON (DC)
+Thiên Tân (Tientsin)
+Chennai (Madras)
+Dongguan
+Bangalore
+Hyderabad
+Johannesburg
+San Francisco (CA)
+Essen
+HONG KONG
+Taipei
+Thành phố Hồ Chí Minh (Sài Gòn)
+Baghdad
+Dallas (TX)
+Madrid
+Philadelphia (PA)
+Santiago
+Belo Horizonte
+Toronto
+Ahmedabad
+Houston (TX)
+Detroit (MI)
+Boston (MA)
+Atlanta (GA)
+Khartoum
+Thành Đô
+Miami (FL)
+Kuala Lumpur
+Thẩm Dương
+Riyadh
+Caracas
+Yangon (Rangoon)
+Tây An (mình)
+Saint Petersburg (Leningrad)
+Pune
+XIN-GA-PO
+Guadalajara
+Alexandria
+Chittagong
+Sydney
+Phoenix (AZ)
+Algiers
+Harbin (Haerbin)
+Abidjan
+BERLIN
+Porto Alegre
+Barcelona
+Milan (Milano)
+Nam Kinh (Nanking)
+Monterrey
+Sán
+Surat
+Hàng Châu (Hangchow)
+Casablanca (Dar-el-Beida)
+Seattle (WA)
+Ankara
+Melbourne
+Recife
+Brasilia
+Aleppo
+ATHENS
+Montréal
+Bình Nhưỡng
+Busan (Pusan)
+Fortaleza
+CAPE TOWN
+Salvador
+Yokohama
+Durban
+Kanpur
+Medellín
+Bandung
+Dalian (Dairen)
+Curitiba
+Thành Phố Hồ Chí Minh
+Minneapolis (MN)
+Luanda
+Trường Xuân
+Hà Nội (HÀ NỘI)
+Ji'nan
+Kyiv (KIEV)
+Thanh Đảo (Tsingtao)
+Nairobi
+ROME
+Jeddah (Jiddah)
+Ibadan
+Kano
+Addis Ababa
+Faisalabad (Lyallpur)
+Fuzhou (Phúc Kiến)
+Tel Aviv-Yafo
+Kunming
+Jaipur
+Santo Domingo
+Taiyuan
+Napoli (Napoli)
+Dar es Salaam
+Trịnh Châu
+Rawalpindi
+KABUL
+Quý Dương
+Surabaya
+San Diego (CA)
+Damascus
+Lisbon
+Amman
+Lucknow
+Campinas
+Louis (MO)
+Izmir
+Zibo
+Tampa (FL)
+Denver (CO)
+Cleveland (OH)
+Kaohsiung
+Katowice
+Nagpur
+Cali
+Orlando (FL)
+Taichung
+GUATEMALA CITY
+San Juan
+San Juan
+Dakar
+Medan
+Stuttgart
+Mashhad (Meshed)
+Daegu (Taegu)
+Trường Sa
+Incheon
+Hamburg
+Birmingham []
+Guayaquil
+Sapporo
+Tô Châu (An Huy)
+Colombo
+Colombo
+Manchester
+Port-au-Prince
+Chaoyang (Quảng Đông)
+Tashkent
+Patna
+Pretoria
+Fukuoka
+VÁCSAVA
+Cebu City
+Zhongshan
+Thạch Gia Trang
+Urumqi
+Pittsburgh (PA)
+Vancouver:
+Frankfurt am Main
+Nam Xương
+Lan Châu
+Maracaibo
+Sacramento (CA)
+West Midlands
+Tuy-ni-di
+Budapest
+Havana
+Harare
+Quanzhou
+An Sơn
+Belém
+Giza
+Portland (OR)
+Vô Tích
+Thành phố Quezon
+Baltimore (MD)
+Dubai
+Cincinnati (OH)
+Nanhai
+Leeds/Great Britai
+Bucharest
+Asuncion
+Ningbo
+Douala
+Goiânia
+Bhilai Nagar
+Rotterdam
+Nanning
+Preston
+Xiamen
+San Antonio (TX)
+SANA'A
+Kansas City (MO)
+Bon
+VIÊN
+Esfahan (Isfahan)
+Tảo Trang
+München (Munich)
+Gujranwala
+Wenzhou
+Tangshan
+Valencia
+Jilin
+Hyderabad
+Đào Viên
+Linyi
+Stockholm
+AMSTERDAM
+Indianapolis (IN)
+Las Vegas (NV)
+Puebla de Zaragoza
+Indore
+Vadodara
+Hofu
+BAKU
+Brisbane
+Dammam/Ả Rập Saud
+Hà Nội
+Minsk
+Baotou
+Bhopal
+Coimbatore
+Maputo
+Puning
+Donetsk (Donestskaya Oblast)
+Brussels
+Rabat
+Manaus
+Barranquilla
+Hiroshima
+Kharkiv
+Antananarivo
+Multan
+Bamako
+Columbus (OH)
+Sikasso
+La Paz
+KUWAIT CITY
+Nanchong
+Ludhiana
+Lusaka
+Santos
+Vitoria
+Palembang
+Agra
+Changzhou
+Quito
+Toluca (từ Lerdo)
+Milwaukee (WI)
+Yantai
+Fuyang (Zheijiang)
+Charlotte (NC)
+Nizhny Novgorod
+Shunde
+Montevideo
+Semarang
+Kochi
+Xuzhou
+Ségou
+Yaoundé
+SAN SALVADOR
+Virginia Beach (VA)
+Hợp Phì
+Tijuana
+Austin (TX)
+Salt Lake City (UT)
+Santa Cruz
+Visakhapatnam
+Meerut
+Conakry
+Valencia
+Asansol
+Kaduna
